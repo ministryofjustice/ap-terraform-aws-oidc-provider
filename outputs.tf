@@ -1,4 +1,1 @@
-# output "example_output" {
-#   description = "example output"
-#   value       = 
-# }
+# Intentionaly blank to satisfy linter
