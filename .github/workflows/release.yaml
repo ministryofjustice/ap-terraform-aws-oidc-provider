@@ -9,3 +9,4 @@ on:
 jobs:
   run-commitlint-on-pr:
     uses: ministryofjustice/ap-shared-github-actions/.github/workflows/release.yaml@main
+    secrets: inherit
